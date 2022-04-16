@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 import requests
 
 BASE_URL="http://aes.cryptohack.org/symmetry"
