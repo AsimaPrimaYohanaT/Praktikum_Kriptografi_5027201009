@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import requests 
 
 def char_to_hex(txt):
